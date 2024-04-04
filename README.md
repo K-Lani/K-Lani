@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K-Lani
 - 👀 I’m interested in reading
-- 🌱 I’m currently learning data 
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
